@@ -17,17 +17,17 @@
 ### Origen:
 Surge de los carnavales traídos desde España. Su primera celebración fue hace más de 1 siglo cuando Barranquilla era una pequeña población. Sin embargo, han circulado diversas historias referentes a la manera como el pueblo barranquillero festejaba el Carnaval.
 Línea de tiempo
-2003: Declarado como Obra Maestra del Patrimonio Oral e Intangible de la Humanidad por la UNESCO.
-2002: El Carnaval de Barranquilla es declarado por el Senado de la República Patrimonio Cultural de la Nación.
-2000: Se crea la Gran Parada de Comparsas el lunes de Carnaval para darle espacio a la fantasía e innovaciones.
-1995: La Fundación Carnaval de Barranquilla crea el desfile de la Calle 17 presidido por el Rey Momo, personaje que se rescata ese año. Fue elegido Enrique Salcedo (q.p.d).
-1974: Se realiza la primera Guacherna, por iniciativa de la cantautora Esther Forero ‘La novia de Barranquilla (q.p.d).
-1967: Nace la Gran Parada de Tradición el Domingo de Carnaval, con presencia de todas las manifestaciones tradicionales de la fiesta.
-1923: Se institucionaliza la figura de la Reina del Carnaval, suspendida durante cinco años. Este año se nombra a Toña Vengoechea Vives.
-1918: Alicia Lafaurie Roncallo fue elegida primera Reina del Carnaval de Barranquilla.
-1903: Se organiza la primera Batalla de Flores a través de propuesta de Heriberto Vengoechea, con el objeto de recuperar una tradición carnavalesca de años anteriores.
-1899: Se crea el cargo de Presidente del Carnaval y una junta organizadora.
-1888: Surge la figura del Rey Momo (símbolo de la máscara)
+- 2003: Declarado como Obra Maestra del Patrimonio Oral e Intangible de la Humanidad por la UNESCO.
+- 2002: El Carnaval de Barranquilla es declarado por el Senado de la República Patrimonio Cultural de la Nación.
+- 2000: Se crea la Gran Parada de Comparsas el lunes de Carnaval para darle espacio a la fantasía e innovaciones.
+- 1995: La Fundación Carnaval de Barranquilla crea el desfile de la Calle 17 presidido por el Rey Momo, personaje que se rescata ese año. Fue elegido Enrique Salcedo (q.p.d).
+- 1974: Se realiza la primera Guacherna, por iniciativa de la cantautora Esther Forero ‘La novia de Barranquilla (q.p.d).
+- 1967: Nace la Gran Parada de Tradición el Domingo de Carnaval, con presencia de todas las manifestaciones tradicionales de la fiesta.
+- 1923: Se institucionaliza la figura de la Reina del Carnaval, suspendida durante cinco años. Este año se nombra a Toña Vengoechea Vives.
+- 1918: Alicia Lafaurie Roncallo fue elegida primera Reina del Carnaval de Barranquilla.
+- 1903: Se organiza la primera Batalla de Flores a través de propuesta de Heriberto Vengoechea, con el objeto de recuperar una tradición carnavalesca de años anteriores.
+- 1899: Se crea el cargo de Presidente del Carnaval y una junta organizadora.
+- 1888: Surge la figura del Rey Momo (símbolo de la máscara)
 
 ### Características y finalidad: 
 El carnaval de Barranquilla es un acontecimiento en el que se expresan todas las variedades culturales y el folclor de la Costa Caribe Colombiana, así como las más variadas manifestaciones locales, como la música popular y el baile. Además de demostraciones de música, comida, baile y disfraces, se declara una Reina del Carnaval y un Rey Momo del Carnaval.
