@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noticia+Text&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">      
+        <link href="style.css" rel="stylesheet" />
+        <title>Análisis de "Chinese herbal tea: history, health and how to make it"</title>
+    </head>
+    <body>
+
+        <header class="container">
+            <div class="row py-5">
+                <div class="col-12 col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+
+                    <h1 class="mb-3 mt-3 text-center">Análisis de "Chinese herbal tea: history, health and how to make it"</h1>
+
+                    <h2 class="fs-6 mb-5 text-center text-uppercase">Antecedente para crear una infografía sobre el Carnaval de Barranquilla</h2>
+
+                    <p class="lead">Esta infografía es un antecedente para crear una infografía del Carnaval de Barranquilla, por su estructura, contenidos y detalles.
+                    </p>
+
+                    <p>"Chinese herbal tea: history, health and how to make it" empieza su distribución explicando qué es el Herbal Tea y sus componentes. Luego explica su historia, y cómo se consume actualmente. También tiene gráficos que comparan la cantidad de tiendas de té y café a lo largo de los años. </p>
+
+                    <p>Todos estos elementos nos sirven de antecedentes para poder crear una infografía más completa sobre el Carnaval de Barranquilla, que inclya de qué se trata, su historia, cómo es actualmente y comparaciones con otros carnavales latinoamericanos. </p>
+                </div>
+            </div>
+        </header>
+
+        <main class="container-fluid bg-light">
+            <div class="row py-5">
+                <div class="col-12 col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                    <h3 class="text-center my-2"><a href="index.html">&larr; Volver</a></h3>
+                    <!--site-shot-->
+                    <img src="img/infoherbaltea.png" class="w-100 shadow my-4" alt="infografía Chinese herbal tea: history, health and how to make it" />
+                    <!--paleta cromática-->
+                    <h3 class="text-center pt-5 pb-1">Colores</h3>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20" class="shadow-sm mt-3 mb-5">
+                        <g id="colores"></g>
+                    </svg>
+                    <!--fuentes tipográficas-->
+                    <h3 class="text-center pt-5 pb-1">Tipografías</h3>
+                    <div class="row mt-2 mb-5 g-3">
+                        <!--primera fuente-->
+                        <div class="col-sm-6">
+                            <div class="card shadow-sm">
+                                <img src="img/merri.png" class="card-img-top" alt="tipografía Merriweather" />
+                                <div class="card-body">
+                                    <h4 class="card-title">Merriweather</h4>
+                                    <p class="card-text">En esta infografía fue usada en títulos.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--segunda fuente-->
+                        <div class="col-sm-6">
+                            <div class="card shadow-sm">
+                                <img src="img/roboto.png" class="card-img-top" alt="tipografía Roboto" />
+                                <div class="card-body">
+                                    <h4 class="card-title">Roboto</h4>
+                                    <p class="card-text">En esta infografía fue usada para párrafos.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer class="bg-white">
+            <div class="container">
+                <div class="row py-3">
+                    <div class="col-12">
+                        <p class="d-flex justify-content-between small p-1 m-0">
+                            <!--reemplaza el # que sigue con la URL de su cuenta de organización en GitHub-->
+                            <a href="https://github.com/carnavaldebarranquilla/23_05_22" class="link-dark">Carnaval de Barranquilla</a>
+                            <a href="https://github.com/profesorfaco/dno075-2022-1/" class="link-dark">Infografía Digital</a>
+                            <a href="https://github.com/profesorfaco/dno075-2022-1/tree/main/clase-12" class="d-none d-lg-inline link-dark">Lunes 23 de mayo, 2022</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <script>
+            // Reemplaza los colores dentro del paréntesis cuadrado, respetando las comillas.
+            // Si necesitas que un color ocupe más espacio en la paleta: debes repetirlo.
+            var colores = ["#A60A33", "#A60A33", "#7672F2", "#7672F2", "#F2A516", "#F28C0F", "#F2958D", "#F2958D", "#000000", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"];
+            // No reemplaces nada de lo que sigue.
+            var n = colores.length;
+            var w = 100 / n;
+            for (var x = 0; x < n; x++) {
+                document.getElementById("colores").innerHTML += '<rect width="' + w + '" height="20" x="' + x * w + '" y="0" fill="' + colores[x] + '" stroke="' + colores[x] + '"/>';
+            }
+        </script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+    </body>
+</html>
