@@ -12,7 +12,11 @@
 - Francisca Romo: boceto, diagramación, ilustraciones e investigación.
 - Macarena Ruiz: redacción, tipografía, color y programación.
 
-### Carnaval de Barranquilla, Colombia
+### Tema del curso: 
+Carnavales Latinoamericanos que representen parte de la cultura e historia de cada país latinoamericano. 
+La celebración de los carnavales es una de las expresiones artísticas y culturales más populares en América Latina. Decenas de ciudades de la región  albergan este festejo con su propia tradición, música, color así como también crítica social y presencia feminista.
+
+## Carnaval de Barranquilla, Colombia
 
 ### Origen:
 Surge de los carnavales traídos desde España. Su primera celebración fue hace más de 1 siglo cuando Barranquilla era una pequeña población. Sin embargo, han circulado diversas historias referentes a la manera como el pueblo barranquillero festejaba el Carnaval.
