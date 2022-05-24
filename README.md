@@ -37,17 +37,16 @@ Línea de tiempo
 El carnaval de Barranquilla es un acontecimiento en el que se expresan todas las variedades culturales y el folclor de la Costa Caribe Colombiana, así como las más variadas manifestaciones locales, como la música popular y el baile. Además de demostraciones de música, comida, baile y disfraces, se declara una Reina del Carnaval y un Rey Momo del Carnaval.
 
 ### Vestimenta
-- El diablo devoto.
-- Marimondas.
+- El diablo devoto: Son elaborados a base de armazones en alambre y hierro que cubren casi todo el cuerpo y que por lo general hacen alusión a animales gigantes y enormes bestias.
+- Marimondas: En su cara tiene los rasgos más llamativos del disfraz: una enorme nariz y agujeros profundos en ojos y boca que aluden claramente a lo erótico.
 - La Reina del Carnaval.
-- Congos.
-- La loca.
-- Garabatos
-- María Moñitos
-- El indio pielroja
-- La muerte.
-- Descabezado.
-- Joselito Carnaval.
+- Congos: Recrean la danza callejera de las tribus guerreras del Congo, vistiéndose como ellos.
+- La loca: Rompen con el miedo al ridículo y dan rienda suelta a todo lo que los ciudadanos comunes nunca harían.
+- María Moñitos: personaje especial que abraza a los transeúntes. Los acaricia. Les da besos y revela sus peores secretos a sus parejas... a menos que le den la plata suficiente, claro.
+- El indio pielroja: es el disfraz de indio que se presenta con más frecuencia en esta celebración.
+- La muerte: Un personaje se disfraza de la muerte, en especial para la danza del Garabato.
+- Descabezado: disfraz de un descabezado...literal.
+
 
 ### Bailes, música y comida
 
@@ -60,18 +59,18 @@ El carnaval de Barranquilla es un acontecimiento en el que se expresan todas las
 - Adolfo Echeverría, presenta el éxito Amaneciendo. Juan Piña, Joe Arroyo con su orquesta La Verdad, que desde entonces se consolida, hasta finales de los noventa como el Rey de los éxitos carnavaleros.
 
 ### Baile 
-- Danza del Congo
-- Danza de Son de Negro
-- Danza del Garabato
-- Danza del Mapalé
-- Cumbiamba
+- Danza del Congo: Representa ese momento «libre» que los negros esclavos tenían para danzar y hacer música. Incluyen animales como significado de la selva congolesa.
+- Danza de Son de Negro: Los bailarines usan pintura negra sobre su cuerpo -en representación de los integrantes de la etnia africana- y utilizan la burla (hacia los colonizadores) como elemento principal. Esa es la razón por la cual, mientras danzan, utilizan expresiones faciales y corporales exageradas.
+- Danza del Garabato: Esta danza simboliza la vida y la muerte. La vida es interpretada por un hombre llamado “el caporal” que, armado de machete. La muerte está representada por un bailarín disfrazado de esqueleto que lleva un largo garabato. Mientras ellos danzan, el resto danza al rededor. 
+- Danza del Mapalé:El Mapalé tiene un significado doble. Por un lado, se refiere a una especie de pez, el Mapalé, que se capturaba en ciertas épocas del año y cuyos movimientos rápidos y fuertes al ser sacados del agua eran imitados por quienes lo pescaban. Por el otro, el Mapalé también es el nombre de un tambor de dos parches (instrumento de percusión) con el que se interpreta la danza.
+- Cumbiamba: Esta danza integra la elegancia y el porte de los españoles, el movimiento de los pies de los indios y ese movimiento de cadera de los negros.
 
 ### Comidas que destacan
-- Arroz de payaso
-- El patillazo
-- Arepa trifásica
-- Pescado en cabrito
-- Enyucado costeño
+- Arroz de payaso: consta de arroz con verduras, carne de lisa (pez de mar muy común en la región) y huevo cocido, se sirve en una hoja de bijao acompañado con ensalada o un trozo de bollo de yuca.
+- El patillazo: Una bebida refrescante, de agua, patilla, limón, azúcar y hielo. 
+- Arepa trifásica: una masa frita hecha a base de maíz, con un relleno de pollo, carne y pescado.
+- Pescado en cabrito: se rellena un bocachico o mojarra, con verduras, tomates, ají, cebolla, sal, pimienta y aceite y se asa al carbón. 
+- Enyucado costeño: Es uno postre horneado, compuesto por queso, yuca, azúcar, coco rallado y leche de coco.
 
 ### Lugar donde se desarrolla 
 Mapa de Colombia
